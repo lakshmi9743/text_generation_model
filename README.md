@@ -30,4 +30,4 @@ I designed a custom interface in Google Colab to display the generated results, 
 ---
 
 ## 📈 Sample Output
-> "The internship at ProDigy InfoTech is a training program in AI and ML. GPT-2 is a transformer model..."
+> "The internship at ProDigy InfoTech is a dynamic internship environment where students can master machine learning. GPT-2 is an interesting language model developed by OpenAI that uses a transformer architecture to understand context.."
